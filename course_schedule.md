@@ -1,0 +1,1182 @@
+# Lessons List in Order ~95 Hours 15 Minutes
+- From 0 to 1: Learn Python Programming - Easy as Pie 
+    - ~10 Hours 38 Minutes
+- Python 3 Complete Masterclass - Make Your Job Tasks Easier! 
+    - ~14 Hours 42 Minutes
+- Learn Python 3 by Making a Game 
+    - ~3 Hours 42 Minutes
+- Practical Data Pre-Processing & Visualization Training With Python 
+    - ~5 Hours 42 Minutes
+- Data Mining with Python! Real-Life Data Science Exercises 
+    - ~7 Hours 6 Minutes
+- The Complete Python Data Visualization Course 
+    - ~2 Hours 54 Minutes
+- Python Web Programming 
+    - ~6 Hours 12 Minutes
+- Web Scraping with Python and BeautifulSoup 
+    - ~1 Hour 18 Minutes
+- Cyber Security - Python and Web Applications 
+    - ~10 Hours 24 Minutes
+- Image Processing with Python - Build an Instagram-Style Filter 
+    - ~3 Hours
+- The Deep Learning Masterclass: Classify Images with Keras! 
+    - ~6 Hours 5 Minutes
+- The Python Mega Course: Build 10 Real World Applications 
+    - ~23 Hours 33 Minutes
+
+
+# From 0 to 1: Learn Python Programming - Easy as Pie (~10 Hours 38 Minutes)
+* What is coding? - It's a lot like cooking!
+  * Introduction - 2:51
+  * Source Code File
+  * Coding is like Cooking - 7:38
+  * Anaconda and Pip - 9:02
+  * Variables are like containers - 11:03
+* Don't Jump Through Hoops, Use Dictionaries, Lists and Loops
+  * A List is a list - 9:19
+  * Fun with Lists! - 8:46
+  * Dictionaries and If-Else - 6:20
+  * Don't Jump Through Hoops, Use Loops - 4:28
+  * Doing stuff with loops - 5:31
+  * Everything in life is a list - Strings as lists - 7:09
+* Our First Serious Program
+  * Modules are cool for code-reuse - 2:32
+  * Our first serious program : Downloading a webpage - 17:50
+  * A few details - Conditionals - 7:50
+  * A few details - Exception Handling in Python - 7:50
+* Doing Stuff with Files
+  * A File is like a barrel - 11:23
+  * Autogenerating Spreadsheets with Python - 9:17
+  * Autogenerating Spreadsheets - Download and Unzip - 17:16
+  * Autogenerating Spreadsheets - Parsing CSV files - 18:36
+  * Autogenerating Spreadsheets with XLSXwriter - 5:27
+* Functions are like Foodprocessors
+  * Functions are like Foodprocessors - 11:00
+  * Argument Passing in Functions - 16:32
+  * Writing your first function - 12:56
+  * Recursion - 16:58
+  * Recursion in Action - 5:43
+* Databases - Data in rows and columns
+  * How would you implement a Bank ATM? - 17:41
+  * Things you can do with Databases - I - 20:08
+  * Things you can do with Databases - II - 8:14
+  * Interfacing with Databases from Python - 6:48
+  * SQLite works right out of the box - 6:29
+  * Manually downloading the necessary zip files
+  * Build a database of Stock Movements - I - 15:03
+  * Build a database of Stock Movements - II - 13:50
+  * Build a database of Stock Movements - III - 13:24
+* An Object Oriented State of Mind
+  * Objects are like puppies! - 3:45
+  * A class is a type of variable - 17:33
+  * An Interface drives behaviour - 13:42
+* Natural Language Processing and Python
+  * Natural Language Processing with NLTK - 7:28
+  * Natural Language Processing with NLTK - See it in action - 14:16
+  * Web Scraping with BeautifulSoup - 18:11
+  * A Serious NLP Application : Text Auto Summarization using Python - 12:02
+  * Autosummarize News Articles - I - 18:35
+  * Autosummarize News Articles - II - 11:30
+  * Autosummarize News Articles - III - 10:23
+* Machine Learning and Python
+  * Machine Learning - Jump on the Bandwagon - 16:33
+  * Plunging In - Machine Learning Approaches to Spam Detection - 17:32
+  * Spam Detection with Machine Learning Continued - 19:06
+  * News Article Classification using K-Nearest Neighbors - 20:03
+  * News Article Classification using Naive Bayes - 19:49
+  * Code Along - Scraping News Websites - 18:53
+  * Code Along - Feature Extraction from News articles - 15:47
+  * Code Along - Classification with K-Nearest Neighbours - 4:17
+  * Code Along - Classification with Naive Bayes - 8:10
+  * Document Distance using TF-IDF - 11:24
+  * News Article Clustering with K-Means and TF-IDF - 15:09
+  * Code Along - Clustering with K-Means - 8:34
+
+
+# Python 3 Complete Masterclass - Make Your Job Tasks Easier! (~14 Hours 42 Minutes)
+* Python 3 - Basics
+  * Let's Connect!START
+  * How to Install Python 3 on Windows - 2:57
+  * How to Install Python 3 on macOS - 2:35
+  * Installing Python 3 on Windows, Linux and MacOS
+  * The Python Interpreter & IDLE in Windows - 3:19
+  * The Python Interpreter & IDLE in macOS - 2:45
+  * Python 3 Basics - Scripts in Windows - 3:58
+  * Python 3 Basics - Scripts in macOS - 4:21
+  * Python 3 - Reasons for the 'No such file or directory' error (or similar) - 5:07
+  * Python 3 Basics - User Input - 3:57
+  * Notebook - User Input
+  * Python 3 Basics - Variables - 6:19
+  * Notebook - Variables
+  * Python 3 Basics - Keywords
+  * Python 3 - Data Types - 1:51
+* Python 3 - Strings
+  * Why learn about each of Python's data types? - 7:38
+  * Python 3 Strings - Introduction - 6:57
+  * Python 3 Strings - Methods - 8:54
+  * Python 3 Strings - Operators & Formatting - 7:23
+  * Python 3 Strings - Formatting Using F-strings - 2:25
+  * Python 3 Strings - Slices - 7:42
+  * Python 3 Strings - Slicing Using a Step - 4:08
+  * Notebook - Strings
+* Python 3 - Numbers and Booleans
+  * Python 3 Numbers - Math Operators - 6:15
+  * Notebook - Numbers and Math Operators
+  * Python 3 Booleans - Logical Operators - 5:58
+  * Notebook - Booleans and Logical Operators
+* Python 3 - Lists
+  * Python 3 Lists - Introduction - 3:42
+  * Python 3 Lists - Methods - 8:27
+  * Python 3 Lists - Slices - 5:40
+  * Notebook - Lists
+* Python 3 - Sets
+  * Python 3 Sets - Introduction - 3:21
+  * Python 3 Sets - Methods - 2:51
+  * Python 3 Sets - Frozensets - 3:03
+  * Notebook - Sets and Frozensets
+* Python 3 - Tuples
+  * Python 3 Tuples - Introduction - 4:48
+  * Python 3 Tuples - Tuples vs. Lists - 2:50
+  * Python 3 Tuples - Methods - 3:25
+  * Notebook - Tuples
+* Python 3 - Ranges
+  * Python 3 Ranges - Introduction - 4:06
+  * Python 3 Ranges - Methods - 2:40
+  * Notebook - Ranges
+* Python 3 - Dictionaries
+  * Python 3 Dictionaries - Introduction - 3:11
+  * Python 3 Dictionaries - Methods - 6:25
+  * Python 3 Dictionaries - Updates in v3.6 and v3.7 - 2:09
+  * Python 3 - Conversions Between Data Types - 6:51
+  * Notebook - Dictionaries and Conversions Between Data Types
+* Python 3 - Conditionals, Loops and Exceptions
+  * Python 3 Conditionals - If / Elif / Else - 15:20
+  * Notebook - If / Elif / Else Conditionals
+  * Python 3 Loops - For / For-Else - 8:42
+  * Notebook - For / For-Else Loops
+  * Python 3 Loops - While / While-Else - 6:05
+  * Notebook - While / While-Else Loops
+  * Python 3 Nesting - If / For / While - 10:10
+  * Notebook - Nesting
+  * Python 3 - Break / Continue / Pass - 7:40
+  * Notebook - Break / Continue / Pass
+  * Python 3 - Exceptions - 2:27
+  * Python 3 - Try / Except / Else / Finally - 9:42
+  * Notebook - Try / Except / Else / Finally
+* Python 3 - Handling Errors and Exceptions in Python
+  * Python 3 - Fixing Syntax Errors - 5:24
+  * Python 3 - Fixing Exceptions - 8:45
+* Python 3 - Functions and Modules
+  * Python 3 Functions - Basics - 9:51
+  * Python 3 Functions - Arguments - 8:03
+  * Notebook - Functions - Basics
+  * Python 3 Functions - Namespaces - 10:48
+  * Python 3 Modules - Importing - 11:30
+  * Python 3 Modules - Helpful Functions: dir() and help() - 2:20
+  * Notebook - Modules and Importing
+  * Python 3 Modules - Installing a Non-Default Module in Windows - 3:54
+  * Python 3 Modules - Installing a Non-Default Module in macOS
+* Python 3 - File Operations
+  * Python 3 Files - Opening & Reading - 12:10
+  * Python 3 Files - Quick Note for Windows Users - 2:48
+  * Python 3 Files - Additional Way of Avoiding the Unicode Error - 1:38
+  * Python 3 Files - Writing & Appending - 7:46
+  * Python 3 Files - Closing. The "with" Method - 2:28
+  * Python 3 Files - Deleting File Contents - 4:43
+  * Python 3 Files - Access Modes Summary
+  * Notebook - File Operations
+* Python 3 - Regular Expressions
+  * Python 3 Regex - match() & search() - 16:24
+  * Python 3 Regex - findall() & sub() - 6:16
+  * Python 3 Regex - Regular Expressions Summary
+  * Notebook - Regular Expressions
+* Python 3 - Classes and Objects
+  * Python 3 Classes - Objects - 11:45
+  * Python 3 Classes - Inheritance - 6:19
+  * Notebook - Classes and Objects
+* Python 3 - Other Advanced Concepts
+  * Python 3 - List / Set / Dictionary Comprehensions - 4:53
+  * Notebook - List / Set / Dictionary Comprehensions
+  * Python 3 - Lambda Functions - 4:40
+  * Notebook - Lambda Functions
+  * Python 3 - map() and filter() - 2:29
+  * Notebook - map() and filter()
+  * Python 3 - Iterators and Generators - 6:48
+  * Notebook - Iterators and Generators
+  * Python 3 - Itertools - 5:43
+  * Notebook - Itertools
+  * Python 3 - Decorators - 2:37
+  * Notebook - Decorators
+  * Python 3 - Threading Basics - 5:36
+  * Notebook - Threading Basics
+  * Python 3 - Coding Best Practices - 2:36
+* Python 3 - Cheat Sheet
+  * Download the Python 3 Cheat Sheet
+* Python 3 - E-Book
+  * Download the Python 3 E-Book
+* APPLICATION: Build a Scientific Calculator with Python 3
+  * Planning the Application - 3:01
+  * Designing and Building the User Menu - 3:08
+  * Implementing Addition, Subtraction, Multiplication, Division - 6:10
+  * Implementing Modulo, Raising to a Power, Square Root, Logarithm - 3:43
+  * Implementing Trigonometric Functions: sin, cos, tan - 3:37
+  * Testing Each Function of the Application - 3:50
+  * Download the Code - Interactive Scientific Calculator
+  * Creating Executable Files (.exe) from Python Scripts (.py) - 3:59
+* Automate Excel Tasks with Python 3
+  * Setting Up the Working Environment - 2:35
+  * Loading an Excel Workbook In Python and Creating/Removing Sheets - 5:28
+  * Notebook - Handling Workbooks
+  * Getting General Information About a Sheet - 3:58
+  * Notebook - Sheet Information
+  * Working with Sheet Cells Using Python - 4:01
+  * Notebook - Cell Information
+  * Working with Cell Styles Using Python - 9:03
+  * Notebook - Cell Styles
+  * Download the Excel-Python Cheat Sheet
+  * APPLICATION - Migrating Records from a Text File to an Excel Workbook - 18:12
+  * Download the Code - Excel Application
+* Automate Database Tasks with Python 3
+  * Installing the Database Server Software - 2:45
+  * Downloading and Installing PostgreSQL on All Platforms
+  * Installing the Necessary Python Module - 1:32
+  * Creating a New Database, Schema and User - 5:26
+  * Notebook - Creating a New Database, Schema and User
+  * Connecting Python to the Database - 2:45
+  * Notebook - Connecting Python to the Database
+  * Creating Database Tables with Python - 4:26
+  * Notebook - Creating Database Tables with Python
+  * Inserting Records Into a Table with Python - 3:18
+  * Notebook - Inserting Records Into a Table with Python
+  * Updating Records Into a Table with Python - 2:42
+  * Notebook - Updating Records Into a Table with Python
+  * Deleting Records From a Table with Python - 1:54
+  * Notebook - Deleting Records From a Table with Python
+  * Querying the Database with Python - 5:15
+  * Notebook - Querying the Database with Python
+  * Fetching Information From the Database with Python - 4:04
+  * Notebook - Fetching Information From the Database with Python
+  * Committing and Rolling Back Transactions with Python - 3:38
+  * Notebook - Committing and Rolling Back Transactions
+  * Download the PostgreSQL Syntax Cheat Sheet
+  * Download the PostgreSQL-Python Cheat Sheet
+  * APPLICATION - Migrating Records from a Text File to the Database - 9:14
+  * Download the Code - Database Application
+* Automate Network Tasks with Python 3
+  * Network Setup Overview - 1:27
+  * Installing the Virtualization Software - 1:36
+  * Installing the Virtualization Software on Windows, Linux, MacOS
+  * Downloading & Installing the Network Device VM - 2:16
+  * Signing Up to the Arista Software Download Portal
+  * Importing the VM & Tweaking the VM Settings - 3:08
+  * Connecting the Local PC to the Devices in Windows - 4:52
+  * Connecting the Local PC to the Devices in macOS
+  * Checking the SSH Configuration and Testing the Connectivity - 3:03
+  * Necessary Switch/Router Configuration
+  * Any Connection Issues? Check Out This Troubleshooting Checklist!
+  * Planning the Application - 5:46
+  * Checking IP File Validity - 4:09
+  * Notebook - Checking IP File Validity
+  * Checking IP Address Validity - 12:51
+  * Notebook - Checking IP Address Validity
+  * Checking IP Address Reachability - 3:57
+  * Notebook - Checking IP Address Reachability
+  * Note about pinging in Windows vs. Mac OS / Linux
+  * Checking Username/Password File Validity - 1:45
+  * Notebook - Checking Username/Password File Validity
+  * Checking Command File Validity - 1:08
+  * Notebook - Checking Command File Validity
+  * Establishing the SSH Connection - 13:13
+  * Notebook - Establishing the SSH Connection
+  * Enabling Simultaneous SSH Connections - 2:12
+  * Notebook - Enabling Simultaneous SSH Connections
+  * Putting Everything Together - 2:56
+  * Download the Code - Network Application and Modules
+  * Reading Device Configuration - 9:19
+  * Extracting Network Parameters - 12:13
+  * Configuring Multiple Devices Simultaneously - 2:58
+* Automate Data Analysis Tasks with Python 3
+  * Running Python Code - The Next Level: IPython and Jupyter Notebook - 9:08
+  * Notebook - IPython and Jupyter Notebook
+  * Introduction to Pandas - Basic Operations - 9:14
+  * Notebook - Introduction to Pandas
+  * Handling Files with Pandas - TXT, CSV, JSON, XLSX - 17:27
+  * Notebook - Handling TXT, CSV, JSON, XLSX Files with Pandas
+  * Reading HTML Content from URLs and HTML Files with Pandas - 4:52
+  * Notebook - Reading HTML Content with Pandas
+  * Indexing and Slicing Tables with Pandas - 21:45
+  * Notebook - Indexing and Slicing Tables with Pandas
+  * Adding, Updating, Deleting Table Rows and Columns - 14:22
+  * Notebook - Adding, Updating, Deleting Table Rows and Columns
+  * APPLICATION - Reading and Writing Data in PostgreSQL Databases Using Pandas - 18:18
+  * Download the Code - SQL Data Analysis Application
+* Data Visualization with Bokeh and Python 3
+  * Introduction to Bokeh - 3:38
+  * Bookmark These 3 Important Documentation Links
+  * Creating a Basic Line Plot Based on Python Lists - 11:17
+  * Notebook - Creating a Basic Line Plot Based on Python Lists
+  * Creating a Bar Plot Based on Excel Data - 17:42
+  * Notebook - Creating a Bar Plot Based on Excel Data
+  * Creating a Pie Chart Based on CSV Data - 11:28
+  * Notebook - Creating a Pie Chart Based on CSV Data
+  * Plotting Multiple Stock Prices Simultaneously - 9:04
+  * Notebook - Plotting Multiple Stock Prices Simultaneously
+  * Plotting Bitcoin Prices as an Interactive Plot with a Range Tool - 12:55
+  * Notebook - Plotting Bitcoin Prices as an Interactive Plot with a Range Tool
+  * Plotting Bitcoin Prices as an Interactive Plot with Candlesticks - 9:49
+  * Notebook - Plotting Bitcoin Prices as an Interactive Plot with Candlesticks
+* Automate Unit Testing with Python 3
+  * Installing pytest and Writing Your First Test - 12:30
+  * Notebook - Introduction to pytest
+  * Running Multiple Tests. Test Discovery Rules in Action - 6:08
+  * Notebook - Running Multiple Tests
+  * Testing a Basic Script - Preparing the Test Bed - 9:33
+  * Download the Code for Testing
+  * Fixture Functions - 4:26
+  * Notebook - Fixture Functions
+  * Sharing a Fixture Instance & Fixture Finalization - 9:17
+  * Notebook - Sharing a Fixture Instance & Fixture Finalization
+  * Parametrizing Fixtures - 4:36
+  * Notebook - Parametrizing Fixtures
+  * Marking Test Functions Using Attributes - 6:22
+  * Notebook - Marking Test Functions Using Attributes
+  * Marking Test Functions Using Custom Markers - 4:23
+  * Notebook - Marking Test Functions Using Custom Markers
+* Automate Web Scraping with Python 3
+  * Installing the Necessary Modules - 1:47
+  * Notebook - Installing the Necessary Modules
+  * Extracting and Parsing Web Content - 4:34
+  * Notebook - Extracting and Parsing Web Content
+  * Tags, Names and Attributes - 10:07
+  * Notebook - Tags, Names and Attributes
+  * Searching the Tree of HTML Tags: find() and find_all() - 6:09
+  * Notebook - Searching the Tree of HTML Tags: find() and find_all()
+  * APPLICATION - Extracting the Product Names, Links and Prices. Saving to Excel - 12:44
+  * Download the Code - Scraping Web Data and Saving to Excel
+  * APPLICATION - Handling Website Pagination When Extracting Data - 6:24
+  * Download the Code - Handling Website Pagination When Extracting Data
+* 10 Ways to Earn Money and Build a Portfolio with Your Python Skills
+  * Putting Your Skills to Work - Part 1 - 8:46
+  * Putting Your Skills to Work - Part 2 - 8:45
+  * Download the Presentation
+* Final Section
+  * Follow My Work and Join My LinkedIn Group
+
+
+# Learn Python 3 by Making a Game (~3 Hours 42 Minutes)
+* Introduction and Installation
+  * Introduction - 2:32
+  * Source Files
+  * Installing Python and Pygame for Mac - 4:54
+  * Installing Python and Pygame for PC - 4:33
+  * Intro to Idle - 7:12
+* Introduction to Python
+  * Variables Intro - 6:22
+  * Variable Operations - 7:26
+  * Tuples, Lists, Dictionaries - 13:17
+  * If Statements - 9:24
+  * While and For in Loops - 10:51
+  * Functions - 11:31
+  * Classes and Objects Intro - 14:30
+  * Subclasses and Inheritance - 13:40
+* Build a Road-Crossing Game in Pygame
+  * Setting up the Display - 7:09
+  * Building a Basic Game Loop - 10:45
+  * Displaying Shapes and Images - 11:37
+  * Making Code Object Oriented - 10:34
+  * Creating Game Object Class - 8:32
+  * Implementing Player Class and Basic Movement - 16:43
+  * Implementing Enemy Class and Bounds Checking - 12:36
+  * Implement Collision Detection - 15:10
+  * Implementing Win and Lose Conditions - 11:26
+  * Increasing Game Difficulty - 7:26
+  * Project Summary - 5:13
+
+# Practical Data Pre-Processing & Visualization Training With Python (~5 Hours 42 Minutes)
+* INTRODUCTION TO THE COURSE: The Key Concepts and Software Tools
+  * Welcome to the Course - 2:01
+  * Data & Script For the Course
+  * Python Data Science Environment - 10:57
+  * For Mac Users - 4:05
+  * Introduction to IPython/Jupyter - 19:13
+* Read in Data From Different Sources With Pandas
+  * What are Pandas? - 12:06
+  * Read CSV - 5:42
+  * Read Excel - 5:31
+* Data Clean
+  * Remove NA Values - 10:28
+  * Missing Values in a Real Dataset - 6:04
+  * Data Imputation - 9:07
+  * Imputing Qualitative Value - 3:27
+  * Theory Behind k-NN Algorithm
+  * Use k-NN for Data Imputation - 6:23
+* Basic Data Wrangling
+  * Basic Principles - 4:20
+  * Preliminary Data Explorations - 8:17
+  * Basic Data Handling With Conditional Statements - 5:24
+  * Drop Column/Row - 4:42
+  * Change Column Name - 3:35
+  * Change the Column Type - 3:50
+  * Explore Date Related Data - 4:02
+  * Simple Date Related Computations - 3:46
+* More Data Wrangling
+  * Data Grouping - 9:47
+  * Data Subsetting and Indexing - 9:44
+  * More Data Subsetting - 8:54
+  * Extract Information From Strings - 4:40
+  * (Fuzzy) String Matching - 2:39
+  * Ranking & Sorting - 8:03
+  * Concatenate - 8:16
+  * Merging and Joining - 10:47
+* Feature Selection and Transformation
+  * Correlation Analysis - 8:26
+  * Using Correlation to Decide Which Features to Retain - 5:00
+  * Univariate Feature Selection - 4:56
+  * Recursive Feature Elimination (RFE) - 4:26
+  * Theory Behind PCA - 2:37
+  * Implement PCA - 3:53
+  * Data Standardisation - 4:10
+  * Create a New Feature - 6:16
+* Theory Behind Data Visualisation
+  * What is Data Visualisation? - 9:33
+  * Some Theoretical Principles Behind Data Visualization - 6:46
+* Most Common Data Visualisations
+  * Histograms- Visualize the Distribution of Continuous Numerical Variables - 12:13
+  * Boxplot- Visualise Data Distribution - 5:54
+  * Scatter Plot: Relationship Between Variables - 11:57
+  * Barplot - 22:25
+  * Pie Chart - 5:29
+  * Line Chart - 12:31
+  * More Line Charts - 2:32
+  * Some More Plot Types - 11:14
+  * And Some More - 8:40
+
+
+# Data Mining with Python! Real-Life Data Science Exercises (~7 Hours 6 Minutes)
+* Course Trailer
+  * Course Trailer: Data Mining with Python - 0:29
+* Python Language Basics for Beginners
+  * Learning Python in Pycharm - 2:40
+  * Source Files - Learning Python with Mammoth Interactive
+  * Downloading and Installing Pycharm and Python  *UPDATED* - 6:55
+  * Exploring Pycharm  *UPDATED* - 7:48
+  * Declaring Variables in Python - 13:17
+  * Using and Converting Variables - 12:35
+  * Types of Collections in Python - 12:47
+  * Collections Operations - 8:42
+  * Control Flow: 'If' Statements - 12:50
+  * 'While' Loops and 'For' Loops - 10:44
+  * Functions - 11:23
+  * Classes and Objects - 15:40
+* Introduction to Data Mining
+  * Introduction to Data Mining - 9:30
+  * Project Files - Mammoth Interactive
+* Data Wrangling: A Complete Overview
+  * Data Wrangling Demystified - 63:56
+  * Project Files - Mammoth Interactive
+* Data Mining Fundamentals
+  * Cluster Analysis - 20:08
+  * Classification and Regression - 34:30
+  * Association and Correlation - 13:10
+  * Dimensionality Reduction - 25:38
+  * Project Files - Mammoth Interactive
+* Frameworks Explained: Taming Data with Spark
+  * Apache Spark - An Overview Of The Framework - 26:36
+  * Spark Key Functions - 20:26
+  * Spark Machine Learning - 7:32
+  * EXAMPLES - Using The Machine Learning Pipeline - 6:16
+  * Project Files - Mammoth Interactive
+* EXAMPLES: Mining and Storing Data
+  * Text Mining - 15:05
+  * Network Mining - 10:11
+  * Matrix - 7:16
+  * SQL - 12:35
+  * Project Files - Mammoth Interactive
+* NLP (Natural Language Processing)
+  * 01 NLP Data Cleaning - 6:55
+  * Count Vectorizer - 7:58
+  * NLP Example with Spam - 9:59
+  * Tweak Model with Spam Data - 5:32
+  * Pipeline with Spam Data - 4:48
+  * Project Files - Mammoth Interactive
+* Conclusion and Challenge
+  * Conclusion and Challenge - 4:40
+  * Project Files - Mammoth Interactive
+
+
+# The Complete Python Data Visualization Course (~2 Hours 54 Minutes)
+* Introduction
+  * Introduction - 2:38
+  * Source Code Files
+* Project
+  * Column Chart - 14:04
+  * Chart Annotations - 6:53
+  * Bar Charts - 9:45
+  * Pie Charts - 9:53
+  * Line Charts - 8:37
+  * Multiline Charts - 7:17
+  * Scatter Plots - 11:07
+  * Multiple Plots in One Figure - 13:06
+  * Seaborn Column and Bar Charts - 11:45
+  * Seaborn Line Plots - 6:24
+  * Seaborn Scatter Plots and Multiple Plots - 9:34
+  * Seaborn Joint Plots - 9:08
+  * Bokeh Column Chart - 9:44
+  * Bokeh Bar Chart - 6:20
+  * Bokeh Hover-over Tooltips - 5:37
+  * Bokeh Multiline Plots - 6:35
+  * Bokeh Interactive Legends - 2:26
+  * Bokeh Scatter Plots - 8:28
+  * Bokeh Multiple Plots - 9:41
+  * Bokeh Linked Panning - 3:55
+* Conclusion
+  * Conclusion - 1:43
+
+
+# Python Web Programming (~6 Hours 12 Minutes)
+* Course Introduction
+  * Course Introduction - 4:12
+* Python Programming Review
+  * Introduction - 1:07
+  * Object Oriented Programming Part 1 - 8:25
+  * Object Oriented Programming Part 2 - 7:16
+  * Modules - 9:11
+  * Modules Part 2 - 6:58
+  * Section Conclusion - 0:42
+* Basic Database (SQLite) with Python
+  * Introduction - 0:52
+  * SQLite Intro - 8:15
+  * Creating Database And Table - 7:17
+  * Inserting Data - 6:06
+  * Inserting Dynamic Data - 4:32
+  * Reading Data - 6:41
+  * Limit, Update, and Delete - 7:59
+  * Section Conclusion - 3:18
+* Using Python with the Internet
+  * Section Introduction - 0:51
+  * urllib module - 5:17
+  * urllib.requests - 9:42
+  * urllib headers - 8:15
+  * xml intro - 5:53
+  * parsing xml - 8:34
+  * Section Conclusion - 1:27
+* Working with HTML
+  * Section Introduction - 1:10
+  * Web Page Structure - 8:14
+  * Web Page Structure 2 - 7:31
+  * Nav bar - 9:01
+  * HTML’s body - 8:04
+  * Comments, footers, and divs - 8:27
+  * Parsing Paragraph Data - 7:07
+  * Section Conclusion - 1:20
+* Intro to Web Server Programming
+  * Section Introduction - 3:45
+  * Creating a VPS - 6:58
+  * Interacting with our VPS - 9:26
+  * FileZilla - 8:18
+  * PySFTP - 8:16
+  * Section Conclusion - 1:05
+* MySQL database with Python
+  * Section Introduction - 1:21
+  * MySQL basics - 9:33
+  * MySQL Part2 - 8:49
+  * Database Connection - 9:04
+  * Inserting into Database - 9:39
+  * Adding logic to insert - 8:17
+  * Nohup - 9:25
+  * Crontab - 6:12
+  * Section Conclusion - 1:44
+* Python's Flask Web development Framework
+  * Section Introduction - 1:35
+  * Flask setup - 8:52
+  * Flask backend setup - 9:30
+  * Basic Website - 9:19
+  * Templates and Errors - 9:14
+  * Variables and Logic - 8:51
+  * Bootstrap incorporation - 9:00
+  * More on Bootstrap - 10:20
+  * Adding more pages to our site - 7:36
+  * Extending Templates - 7:50
+  * Additional Information - 9:42
+* Course Conclusion
+  * Course Conclusion - 1:39
+
+
+# Web Scraping with Python and BeautifulSoup (~1 Hour 18 Minutes)
+* Introduction
+  * Intro to Web Scraping - 3:27
+  * Source Code Files
+* Project
+  * Beautiful Soup and Web Page Inspection - 8:17
+  * Scraping Web Pages - 11:57
+  * Sorting HTML Table Data - 14:38
+  * Writing HTML to CSV - 9:05
+  * Sanitizing Input - 5:48
+  * Reading HTML from Local Files - 7:24
+  * Reading HTML from Non-Table Data - 13:57
+* Conclusion
+  * Conclusion - 3:15
+
+
+# Cyber Security - Python and Web Applications (~10 Hours 24 Minutes)
+* Introduction
+  * Course Introduction - 3:03START
+  * Course Work Overview - 6:26
+  * Sample Tool 1 - Log Analyzer - 10:22
+  * Sample Tool 1 - Text Instructions
+  * Sample Tool 2 - Password Checker - 7:26
+  * Sample Tool 2 - Text Instructions
+  * Development Environment Overview - 5:00
+  * Important course updates - don't skip!
+* Cyber Security
+  * Cyber Security: Introduction to Section 2 - 0:45
+  * What is Cyber Security? - 8:03
+  * Cyber Security Introduction Quiz
+  * Explaining the Methodology - 7:12
+  * Methodology Quiz
+  * Intro to Python and Python Crash Course
+  * repl.it Introduction - 6:33
+  * Basics Review
+  * Penetration Testing - Overview - 5:31
+  * Penetration Testing - Code Example - 5:27
+  * Penetration Testing - Text Instructions
+  * Penetration Testing - Remediation - 8:28
+  * Penetration Testing Quiz
+  * Port Scanning - Overview - 4:29
+  * Port Scanning - Code Examples - 3:38
+  * Port Scanning - Text Instructions
+  * Port Scanning - Remediation - 3:51
+  * Port Scanning Quiz
+  * Botnets - Overview - 6:01
+  * Botnets - Code Example - 5:06
+  * Botnets - Code Example Continued - 5:04
+  * Botnets - Text Instructions
+  * Botnets - Remediation - 12:15
+  * Cyber Security Topics Review 1
+  * Code Exploits - Overview - 4:51
+  * Code Exploits - Code Example - 5:33
+  * Code Exploits - Text Instructions
+  * Code Exploits - Remediation - 3:55
+  * Forensic Investigations - 5:31
+  * Forensic Investigations - Code Example - 8:29
+  * Forensic Investigations - Text Instructions
+  * Forensic Investigations - Remediation - 5:09
+  * Network Traffic Analysis - Overview - 5:11
+  * Network Traffic Analysis - Code Example - 4:28
+  * Network Traffic Analysis - Text Instructions
+  * Network Traffic Analysis - Remediation - 3:43
+  * Cyber Security Topics Review 2
+  * Wireless - Overview - 4:33
+  * Wireless - Code Example - 3:08
+  * Wireless - Text Instructions
+  * Wireless - Remediation - 9:58
+  * Web Reconnaissance - Overview - 5:31
+  * Web Reconnaissance - Code Example - 9:36
+  * Web Reconnaissance - Text Instructions
+  * Web Reconnaissance - Remediation - 6:30
+  * Antivirus Evasion - Overview - 5:39
+  * Antivirus Evasion - Code Example - 7:02
+  * Antivirus Evasion - Text Instructions
+  * Antivirus Evasion - Remediation - 3:33
+  * Social Engineering - Overview - 6:57
+  * Social Engineering - Code Example - 4:30
+  * Social Engineering - Text Instructions
+  * Social Engineering - Remediation - 2:56
+  * Cyber Security Topics Review 3
+* Building a Security Tool
+  * Intro to Section 3: Building your own security tool - 1:15
+  * Installing Python Locally - Text Instructions
+  * Tool Development with Python - Overview - 4:54
+  * Introduction to Pip - 3:55
+  * Introduction to Pip - Text Instructions
+  * Basic Python Script - 3:24
+  * Basic Python Script - Text Instructions
+  * Command Line Arguments - 3:16
+  * Command Line Arguments - Text Instructions
+  * Argument Parsing - 6:29
+  * Argument Parsing - Text Instructions
+  * Python Tools Review 1
+  * Validating Input - 3:37
+  * Validating Input - Text Instructions
+  * Sending Requests to the Web - 2:40
+  * Sending Requests to the Web - Text Instructions
+  * Parsing Results - 6:43
+  * Parsing Results - Text Instructions
+  * Checking Forms - 4:31
+  * Checking Forms - Text Instructions
+  * Python Tools Review 2
+  * Generating the Report - 2:19
+  * Generating the Report - Text Instructions
+  * Checking Comments - 6:32
+  * Checking Comments - Text Instructions
+  * Checking Inputs - 5:12
+  * Checking Inputs - Text Instructions
+  * Improving the Report - 2:57
+  * Improving the Report - Text Instructions
+  * Using Config Settings - 7:16
+  * Using Config Settings - Text Instructions
+  * Configuration from File - 3:42
+  * Configuration from File - Text Instructions
+  * Merging the Configs - 2:09
+  * Merging the Configs - Text Instructions
+  * Outputting the Report - 8:36
+  * Outputting the Report - Text Instructions
+  * Python Tools Review 3
+  * Pushing to GitHub - 4:29
+  * Pushing to Github - Text Instructions
+  * Testing the Python Tool - 6:05
+  * Writing the Documentation - 6:24
+  * Distributing Your Tool - 5:48
+  * Python Tools Review 4
+* Web Application Security
+  * Section 4 Introduction - 1:17
+  * Web Application Security Introduction - 6:00
+  * OWASP Overview - 4:37
+  * Introduction to the OWASP Top 10 List - 1:27
+  * Rails Overview - 3:14
+  * PHP Overview - 5:08
+  * Installing Rails and PHP
+  * OWASP Top 10 Vulnerabilities Example Code - Where to get it
+  * Command Injection - Overview - 4:48
+  * Command Injection - Rails Example - 6:44
+  * Command Injection - Rails Example - Text Instructions
+  * Command Injection - PHP Example - 4:10
+  * Command Injection - PHP Example - Text Instructions
+  * SQL Injection - Overview - 6:25
+  * SQL Injection - Rails Example - 3:59
+  * SQL Injection - Rails Example - Text Instructions
+  * SQL Injection - PHP Example - 3:31
+  * SQL Injection - PHP Example - Text Instructions
+  * SQL Injection - PHP Example - Remediation - 2:26
+  * Password Complexity - Overview - 6:46
+  * Password Complexity - Rails Example - 6:50
+  * Password Complexity - Rails Example - Text Instructions
+  * Password Complexity - PHP Example - 6:28
+  * Password Complexity - PHP Example - Text Instructions
+  * Information Leakage - Overview - 4:56
+  * Information Leakage - Rails Example - 3:07
+  * Information Leakage - Rails Example - Text Instructions
+  * Information Leakage - PHP Example - 7:13
+  * Information Leakage - PHP Example - Text Instructions
+  * Sensitive Data Exposure - Overview - 4:53
+  * Sensitive Data Exposure - Rails Example - 4:23
+  * Sensitive Data Exposure - Rails Example - Text Instructions
+  * Sensitive Data Exposure - PHP Example - 2:54
+  * Sensitive Data Exposure - PHP Example - Text Instructions
+  * Web Application Security Review 1
+  * XML External Entities (XXE) - Overview - 4:40
+  * XML External Entities (XXE) - Rails Example - 4:36
+  * XML External Entities (XXE) - Rails Example - Text Instructions
+  * XML External Entities (XXE) - PHP Example - 4:28
+  * XML External Entities (XXE) - PHP Example - Text Instructions
+  * Broken Access Control - Overview - 5:12
+  * Broken Access Control - Rails Example - 11:56
+  * Broken Access Control - Rails Example - Text Instructions
+  * Broken Access Control - PHP Example - 3:39
+  * Broken Access Control - PHP Example - Text Instructions
+  * Security Misconfiguration - Overview - 5:50
+  * Security Misconfiguration - Rails Example - 3:46
+  * Security Misconfiguration - Rails Example - Text Instructions
+  * Security Misconfiguration - PHP Example - 3:28
+  * Security Misconfiguration - PHP Example - Text Instructions
+  * Web Application Security Review 2
+  * Cross-Site Scripting (XSS) - Overview - 1:34
+  * Cross-Site Scripting (XSS) - Rails Example - 5:09
+  * Cross-Site Scripting (XSS) - Rails Example - Text Instructions
+  * Cross-Site Scripting (XSS) - PHP Example - 5:50
+  * Cross-Site Scripting (XSS) - PHP Example - Text Instructions
+  * Insecure Deserialization - Overview - 3:46
+  * Insecure Deserialization - Rails Example - 5:18
+  * Insecure Deserialization - Rails Example - Text Instructions
+  * Insecure Deserialization - PHP Example - 7:22
+  * Insecure Deserialization - PHP Example - Text Instructions
+  * Using Components with Known Vulnerabilities - Overview - 5:28
+  * Using Components with Known Vulnerabilities - Rails Example - 11:01
+  * Using Components with Known Vulnerabilities - Rails Example - Text Instructions
+  * Using Components with Known Vulnerabilities - PHP Example - 4:38
+  * Using Components with Known Vulnerabilities - PHP Example - Text Instructions
+  * Insufficient Logging and Monitoring - Overview - 4:06
+  * Insufficient Logging and Monitoring - Rails Example - 5:49
+  * Insufficient Logging and Monitoring - Rails Example - Text Instructions
+  * Insufficient Logging and Monitoring - PHP Example - 6:14
+  * Insufficient Logging and Monitoring - PHP Example - Text Instructions
+  * Web Application Security Review 3
+  * Web Security Analysis Tool - 9:17
+* Bonus Material
+  * Multi-Factor Authentication - 16:35
+  * Ethical Hacking - 5:08
+  * Password Complexity - 11:18
+  * Physical Security - 10:31
+  * Data Breaches - 9:34
+  * Cloud Security - 11:44
+* Summary
+  * Appendix A: Acknowledgements
+  * Appendix B: Glossary
+  * Thank you! - 1:07
+* Python crash course
+  * Installation and expectations
+  * Strings
+  * Numbers
+  * List, Tuples and Sets
+  * Dictionaries
+  * Branching and Functions/Methods
+  * Standard library and imports
+  * Object Oriented Programming (OOP)
+
+
+# Image Processing with Python - Build an Instagram-Style Filter(~3 Hours)
+* Introduction
+  * Introduction - 2:44START
+  * Source Files
+  * Anaconda Development Environment - 8:35
+* Project
+  * Images - 7:45
+  * Matrices - 9:10
+  * Overview - 3:04
+  * Creating the UI - Part 1 - 20:12
+  * Creating the UI - Part 2 - 5:57
+  * Matrix Addition and Subtraction - 6:54
+  * Constraints on Matrix Addition and Subtraction - 3:22
+  * Scalar Multiplication - 7:23
+  * Color Models - 12:03
+  * Grayscale - 9:47
+  * Brightness and Contrast - 14:09
+  * Brightness and Contrast Filters - 6:57
+  * Kernels - 8:24
+  * Intro to Convolution - 9:21
+  * Convolution Filters - 19:21
+  * Save Functionality - 6:13
+  * Conclusion
+* Conclusion - 1:26
+  * Convolution Example (Optional) - 9:18
+  * Convolution Detailed Example (Optional) - 8:34
+
+
+# The Deep Learning Masterclass: Classify Images with Keras! (~6 Hours 5 Minutes)
+* DAY 1: Learn to Use PyCharm
+  * Bootcamp Intro - 5:42START
+  * Intro to PyCharm - 3:55
+  * Downloading and Installing - 9:28
+  * Exploring PyCharm Interface - 8:32
+  * Add and Run Python Files - 7:25
+  * Building and Running a Simple Program - 10:05
+* DAY 2: Learn Python Language Basics
+  * Introduction - 5:13
+  * Variables Syntax And Basic Types - 8:33
+  * Variable Operations - 9:29
+  * Tuples and Lists - 11:54
+  * Dictionaries - 6:36
+  * If Statements - 10:03
+  * While and For In Loops - 10:43
+  * Function Implementation and Execution - 10:05
+  * Parameters and Return Values - 7:47
+  * Intro to Classes and Objects - 12:40
+  * Subclasses and Superclasses - 13:06
+  * Summary and Outro - 3:37
+* DAY 3: Understand Machine Learning Neural Networks
+  * Intro to Day 3 - 2:01
+  * Intro to Machine Learning - 11:23
+  * Intro to Neutral Networks - 10:23
+  * Intro to Convolutions - 14:10
+* DAY 4: Explore the Keras API
+  * Intro to Day 4 - 1:49
+  * Intro To TensorFlow And Keras - 9:06
+  * Understanding Keras Syntax - 19:13
+  * Intro to Activation Functions - 13:26
+* DAY 5: Format Datasets and Examine CIFAR-10
+  * Intro to Day 5 - 1:53
+  * Exploring CIFAR10 Dataset - 8:36
+  * Understanding Specific Data Points - 17:43
+  * Formatting Input Images - 12:04
+* DAY 6: Build the Image Classifier Model
+  * Intro to Day 6 - 2:23
+  * Building the Model - 18:18
+  * Compiling and Training the Model - 12:38
+  * Gradient Descent and Optimizers - 14:50
+* DAY 7: Save and Load Trained Models
+  * Intro to Day 7 - 2:08
+  * Saving and Loading Model to H5 - 15:20
+  * Saving Model to Protobuf File - 17:50
+  * BootCamp Summary - 5:40START
+* Source Material
+  * Source Code: Learn Python Language Basics
+  * Texts Assets: Understand Machine Learning Neural Networks
+  * Texts Assets: Explore the Keras API
+  * Asset Files: Format Datasets and Examine CIFAR-10
+  * Asset Files: Build the Image Classifier Model
+  * Asset Files: Save and Load Trained Models
+
+
+# The Python Mega Course: Build 10 Real World Applications (~23 Hours 33 Minutes)
+* Introduction
+  * Course Introduction - 2:20
+  * The Tools You Need - 1:08
+  * Installing Python 3 and an IDE - 6:43
+* The Basics: Small Program
+  * Your First Python Code - 3:12
+  * FAQs
+  * Your first Python Program - 6:34
+  * Summary
+* The Basics: Data Types
+  * Variables - 3:12
+  * Exercise: Assign Values and Print
+  * Solution: Assign Values and Print
+  * Simple Types: Integers, Strings, and Floats - 3:21
+  * List Types - 1:31
+  * Type attributes - 2:54
+  * How to find what code you need - 4:34
+  * Bonus: Steps of Learning Python - 1:28
+  * Dictionary Types - 3:43
+  * Tuple Types - 2:26
+  * How are datatypes used in the real world - 1:07
+  * Summary: Integers, Floats, Lists, Dictionaries, and Tuples
+  * Exercise: Create Integers, Strings, and Floats
+  * Solution: Create Integers, Strings, and Floats
+  * Exercise: Sum Up Numbers
+  * Solution: Sum Up Numbers
+  * Exercise: Create List
+  * Solution: Create List
+  * Exercise: Create Complex List
+  * Solution: Create Complex List
+  * Exercise: Calculate Maximum
+  * Solution: Calculate Maximum
+  * Exercise: Count Values
+  * Solution: Count Values
+  * Exercise: Modify String
+  * Solution: Modify String
+* The Basics: Operations with Data Types
+  * Python shell and terminal tips - 0:52
+  * More operations with lists - 5:56
+  * Accessing list items - 2:04
+  * Accessing list slices - 2:49
+  * Accessing items and slices with negative indexes - 2:02
+  * Accessing characters and slices in strings - 1:30
+  * Accessing items in dictionaries - 1:52
+  * Summary: Positive/Negative Indexes, Slicing
+* The Basics: Functions and Conditionals
+  * Creating Your Own Functions - 5:25
+  * Print or return - 3:59
+  * Intro to conditionals - 0:58
+  * If conditional example - 3:48
+  * Bonus Code: Using "and" and "or" in a Conditional
+  * Conditional explained line by line - 3:09
+  * More on conditionals - 2:21
+  * Elif conditionals - 1:15
+  * White space - 3:30
+  * Summary: Functions and Conditionals
+* The Basics: Processing User Input
+  * User input - 7:55
+  * String formatting - 2:44
+  * String formatting with multiple variables - 1:35
+  * Summary: Processing User Input
+* The Basics: Loops
+  * For loops, how and why - 5:46
+  * For loop over a function
+  * Looping through a dictionary - 1:12
+  * Bonus code: Dictionary loop and string formatting
+  * While loops: how and why - 2:59
+  * While loop example with user input - 3:12
+  * While loop with break and continue - 3:22
+  * Summary: Loops
+* Putting the Pieces Together: Building a Program
+  * Problem statement - 3:48
+  * Approaching the problem - 1:46
+  * Building the maker function - 5:14
+  * Constructing the loop - 4:39
+  * Making the output user-friendly - 3:28
+* List Comprehensions
+  * Simple list comprehension - 3:27
+  * List comprehension with If conditional - 1:22
+  * List comprehension with if-else conditional - 1:37
+  * Summary: List Comprehensions
+* More on Functions
+  * Functions with multiple arguments - 1:45
+  * Keyword and non-keyword arguments, default and non-default parameters - 3:00
+  * Functions with an arbitrary number of non-keyword arguments - 3:32
+  * Functions with an arbitrary number of keyword arguments - 1:34
+  * Summary: More on Functions
+* File Processing
+  * The concept of processing files with Python - 1:12
+  * Reading text from a file - 3:07
+  * The cursor - 1:49
+  * Closing a file - 1:34
+  * Opening files using "with" - 1:45
+  * Different file paths - 1:25
+  * Writing text to a file - 3:59
+  * Appending text to an existing File - 3:30
+  * Summary: File Processing
+* Imported Modules
+  * Builtin modules - 5:53
+  * Standard Python modules - 8:34
+  * Third-party modules - 5:49
+  * Third-party module example - 2:45
+  * Summary: Imported Modules
+* Application 1: Build an Interactive Dictionary
+  * Program demonstration - 4:10
+  * The data source - 4:54
+  * Loading JSON data - 3:52
+  * Returning the definition of a word - 3:25
+  * Counting for non-existing words - 2:51
+  * Implementing case sensitivity - 3:09
+  * Similarity ratio between two words - 4:39
+  * Best match out of a list of words - 6:07
+  * Recommending the best match - 9:42
+  * Confirmation from the user - 10:17
+  * Optimizing the final output - 7:51
+  * Exercise: Fixing a program bug (1)
+  * Solution
+  * Exercise: Fixing a program bug (2)
+  * Solution
+* Numpy
+  * What is Numpy - 8:07
+  * Creating Numpy Arrays from Images and Vice-Versa - 12:30
+  * Indexing, Slicing and Iterating - 4:57
+  * Stacking and Splitting - 5:44
+* Data Analysis with Pandas
+  * What is Pandas - 6:37
+  * Installing Pandas
+  * Getting Started with Pandas - 8:37
+  * Getting Started with Jupyter Notebooks - 9:18
+  * Loading CSV Files - 4:20
+  * Exercise: Loading JSON Files
+  * Solution
+  * Note on Adding Excel Files
+  * Loading Excel Files - 0:58
+  * Loading TXT Files - 2:30
+  * Set Header Row - 2:34
+  * Set Column Names - 0:56
+  * Set Index Column - 4:45
+  * Indexing and Slicing - 5:35
+  * Deleting Columns and Rows - 2:30
+  * Updating and Adding New Columns and Rows - 7:31
+  * Note on Nominatim
+  * Example: Geocoding Addresses with Pandas and Geopy - 15:11
+* Application 2: Create Webmaps with Python and Folium
+  * Demonstration of the Web Mapping Application - 1:24
+  * Creating an Open Street Map with Python - 6:34
+  * Adding Markers to the Map - 5:10
+  * Adding Markers to the Map from CSV Data - 9:12
+  * Rule-based Coloring of Markers - 4:31
+  * More on Rule-based Styling - 4:27
+  * Calculating the Map Center from the Input Data - 7:56
+  * Adjusting the Code for the Latest Version of Folium - 8:12
+  * Adding a Choropleth Map from GeoJson - 20:59
+  * Adding a Layer Control Panel - 4:28
+* Fixing Programming Errors
+  * Syntax errors - 8:22
+  * Runtime errors - 10:58
+  * Fixing difficult errors - 5:38
+  * The structure of a good programming question - 5:59
+  * Error handling - 7:59
+* Application 3: Build a Website Blocker
+  * Demonstration of the Website Blocker Application - 3:48
+  * Application Architecture - 3:44
+  * Setting up the Script - 9:08
+  * Setting up the Infinite Loop - 11:00
+  * Implementing the First Part - 12:16
+  * Implementing the Second Part - 18:55
+  * Scheduling the Python Program on Windows - 12:39
+  * Scheduling the Python Program on Mac and Linux - 6:15
+* Application 4: Build a Website with Python and Flask
+  * Demonstration of the Website - 1:42
+  * Building Your First Website - 8:07
+  * Returning HTML Templates - 4:09
+  * Adding a Navigation Menu - 8:32
+  * Adding CSS Styling - 5:59
+  * Creating a Python Virtual Environment - 6:22
+  * Deploying the Website to a Live Server - 21:52
+  * Maintaining the Website - 7:26
+* Graphical User Interfaces with Tkinter
+  * Introduction to Tkinter - 2:35
+  * Setting up a GUI with Widgets - 9:11
+  * Connecting GUI Widgets with Callback Functions - 9:33
+* Interacting with Databases with Python
+  * Introduction to Working with Databases - 3:04
+  * Connecting and Inserting Data to SQLite via Python - 13:11
+  * Selecting, Inserting, Deleting, and Updating SQLite Records - 6:58
+  * Introduction to PostgreSQL Psycopg2 - 8:46
+  * Selecting, Inserting, Deleting, and Updating PostgreSQL Records - 12:53
+* Application 5: Build a Desktop Database Application
+  * Demonstration of the Database Application - 2:25
+  * User Interface Design - 5:54
+  * Building the Front-end Interface - 27:00
+  * Building the Back-end - 24:28
+  * Connecting the Front-end to the Back-end, Part 1 - 17:31
+  * Connecting the Front-end to the Back-end, Part 2 - 21:59
+  * Creating a Standalone Executable Version of the Program - 5:00
+* Object Oriented Programming
+  * Object Oriented Programming Explained - 4:59
+  * Turning this Application into OOP Style, Part 1 - 13:01
+  * Turning this Application into OOP Style, Part 2 - 14:06
+  * Creating a Bank Account Object - 21:06
+  * Inheritance - 12:08
+  * OOP Glossary - 8:12
+* Python for Image and Video Processing with OpenCV
+  * Introduction - 2:29
+  * Installing OpenCV for Python - 2:48
+  * Loading, Displaying, Resizing, and Writing Images with Python - 14:00
+  * Face Detection - 19:38
+  * Capturing Video - 19:45
+* Application 6: Build a Webcam Motion Detector
+  * Demonstration of the Motion Detector Application - 1:59
+  * Detecting Objects from the Webcam - 30:20
+  * Recording Motion Time - 20:38
+* Interactive Data Visualization with Python
+  * Introduction to Bokeh - 2:02
+  * Installing Bokeh
+  * Your First Bokeh Plot - 13:52
+  * Plotting Triangles and Circle Glyphs (Practice)
+  * Solution
+  * Using Bokeh With Pandas - 4:51
+  * Plotting Education Data (Practice)
+  * Solution
+  * Note on Loading Excel Files
+  * Plot Properties
+  * Plot Weather Data (Practice)
+  * Solution
+  * Visual Attributes
+  * Time-Series Plots - 6:36
+  * More Visualization Examples with Bokeh - 4:21
+  * Plotting Time Intervals of the Motion Detector - 14:05
+  * Hover Tool Implementation - 9:57
+* Webscraping with Python Beautiful Soup
+  * Section Introduction - 1:57
+  * The Concept Behind Webscraping - 4:30
+  * Scraping a Webpage with Requests and BeautifulSoup - 16:22
+* Application 7: Scrape Real Estate Property Data
+  * Demonstration of the Webscraping Application - 2:28
+  * Understanding the Problem and Loading the Webpage in Python - 7:15
+  * Extracting Divisions of All Properties - 11:34
+  * Extracting Addresses and Property Details - 14:39
+  * Extracting Elements with no Unique Identifiers - 12:07
+  * Saving the Extracted Data in CSV Files - 8:27
+  * Crawling Through Webpages - 17:15
+* Application 8: Build a Web-based Financial Graph
+  * Demonstration of the Financial Analysis Application - 1:59
+  * Downloading Various Datasets with Python - 11:31
+  * Understanding Stock Market Data - 3:25
+  * Understanding Stock Market Data Candlestick Charts - 5:39
+  * Building Chart Candlesticks with Bokeh Quadrants - 10:13
+  * Building Chart Candlesticks with Bokeh Rectangles - 22:28
+  * Building Candlestick Segments - 5:02
+  * Stylizing the Chart - 4:21
+  * The Concept Behind Embedding a Bokeh Chart in a Webpage - 11:04
+  * Embedding the Bokeh Chart in a Webpage - 15:33
+  * Deploying the Chart Website to a Live Server - 8:22
+* Application 9: Build a Data Collector Web App
+  * Demonstration of the Web Application - 2:59
+  * Steps for Building a PostgreSQL Database-enabled Web Application - 6:08
+  * Building the Front-end: HTML Part - 14:52
+  * Building the Front-end: CSS Part - 10:11
+  * Building the Back-end: Getting User Input - 17:31
+  * Building the Back End: Creating the PostGreSQL Database Model - 18:17
+  * Building the Back End: Storing User Data to the Database - 19:14
+  * Building the Back End: Emailing Database Values Back to the User - 11:14
+  * Building the Back End: Sending Statistics to Users - 16:00
+  * Deploying the Web Application to a Live Server - 29:31
+  * Bonus Lecture: User Downloads and Uploads - 20:51
+* Application 10: Student Project on Building a Geocoder Web Service
+  * Demonstration of the Geocoding Web Service Application and Project Requirements - 7:31
+  * Solution, Part 1 - 16:21
+  * Solution, Part 2 - 5:51
+  * End of the Course - 0:47
